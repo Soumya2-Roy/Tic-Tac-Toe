@@ -1,7 +1,7 @@
 # Definition
 Tic-tac-toe is a game where two players take turns marking an X or O in a 3 x 3 grid. The goal is to get three of your marks in a row, either horizontally, vertically, or diagonally. The first player to do so wins.
 
-#Main Motivation
+# Main Motivation
 The main motivations of playing Tic Tac Toe include:
 Social interaction: Players take turns, communicate, and compete in a friendly environment. 
 Learning: Players develop skills like logical reasoning, problem solving, and spatial awareness. 
